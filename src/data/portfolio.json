@@ -1,0 +1,139 @@
+{
+  "profile": {
+    "name": "Ridhima Nanda",
+    "shortName": "Ridhima",
+    "tagline": "Computer Engineering student building scalable web applications.",
+    "role": "Aspiring Software Engineer",
+    "specialization": "Software Engineering · Problem Solving",
+    "location": "Patiala, India",
+    "yearsOfExperience": "",
+    "bio": "Computer Engineering student at Thapar Institute of Engineering and Technology focused on software engineering and full-stack web development. I enjoy solving problems with C++, building responsive web applications, and continuously improving through real-world projects, hackathons, and collaborative development.",
+    "avatarSvg": "<svg viewBox=\"0 0 200 200\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"g1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B5CF6\"/><stop offset=\"50%\" stop-color=\"#D946EF\"/><stop offset=\"100%\" stop-color=\"#F97316\"/></linearGradient></defs><circle cx=\"100\" cy=\"100\" r=\"98\" fill=\"#141414\" stroke=\"url(#g1)\" stroke-width=\"2\"/><circle cx=\"100\" cy=\"82\" r=\"34\" fill=\"none\" stroke=\"url(#g1)\" stroke-width=\"2.5\"/><path d=\"M46 172c6-34 32-54 54-54s48 20 54 54\" fill=\"none\" stroke=\"url(#g1)\" stroke-width=\"2.5\" stroke-linecap=\"round\"/></svg>",
+    "resumeUrl": "/RIDHIMA_NANDA_Resume.pdf",
+    "availabilityBadge": "Open to internships",
+    "social": {
+      "github": "https://github.com/ridhima-nanda",
+      "instagram": "",
+      "linkedin": "www.linkedin.com/in/ridhima-nanda24",
+      "email": "nandaridhima9@gmail.com",
+      "phone": "+91 88824 56068",
+      "website": ""
+    }
+  },
+  "skills": {
+    "categories": [
+      {
+        "name": "Languages",
+        "items": [
+          "C++",
+          "JavaScript",
+          "Python (Basic)"
+        ]
+      },
+      {
+        "name": "Frontend",
+        "items": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      {
+        "name": "Tools",
+        "items": [
+          "Git",
+          "Github",
+          "VS Code"
+        ]
+      },
+      {
+        "name": "Core Concepts",
+        "items": [
+          "Data Structures & Algorithms",
+          "Object-Oriented Programming"
+        ]
+      }
+    ]
+  },
+  "experience": [],
+  "services": [],
+  "projects": [
+    {
+      "id": "nhbd-fan-page",
+      "title": "The Neighbourhood Fan Page",
+      "subtitle": "Responsive fan website",
+      "description": "A responsive fan page dedicated to The Neighbourhood, built to practice modern frontend development. Focused on clean UI, responsive layouts, and creating an engaging user experience.",
+      "stack": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "role": "Solo Developer",
+      "year": "2026",
+      "link": "https://the-nhbd-fanpage.vercel.app/store.html",
+      "image": "/nhbd.png",
+      "highlight": true
+    },
+    {
+      "id": "safepulse-ai",
+      "title": "SafePulse AI",
+      "subtitle": "ACM Hackathon Project — AI-Powered Healthcare Triage & Emergency Response System",
+      "description": "A smart healthcare triage platform that assists emergency response by analyzing patient symptoms, prioritizing cases, and providing real-time monitoring through an interactive dashboard.",
+      "stack": [
+        "Python",
+        "Flask",
+        "JavaScript",
+        "HTML/CSS",
+        "REST APIs"
+      ],
+      "role": "Frontend Developer",
+      "year": "2025",
+      "link": "https://safepulse-ai.onrender.com/",
+      "image": "/safepulse.png",
+      "highlight": true
+    },
+    {
+      "id": "personal-portfolio",
+      "title": "Personal Portfolio Website",
+      "subtitle": "Responsive Developer Portfolio",
+      "description": "A personal portfolio website built to showcase my projects, technical skills, and experience with a modern responsive design and smooth user interactions.",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Vercel"
+      ],
+      "role": "Frontend Developer",
+      "year": "2026",
+      "link": "YOUR_PORTFOLIO_LINK",
+      "image": "",
+      "highlight": false
+    },
+    {
+      "id": "upcoming-project",
+      "title": "Upcoming Frontend Project",
+      "subtitle": "React + Tailwind CSS Application",
+      "description": "A frontend application currently under development, focused on creating a modern, responsive interface with reusable components and a clean user experience.",
+      "stack": [
+        "React",
+        "Tailwind CSS"
+      ],
+      "role": "Frontend Developer",
+      "year": "2026",
+      "link": "",
+      "image": "",
+      "highlight": false,
+      "status": "In Development"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Thapar Insititute of Engineering and Technology",
+      "degree": "B.E. in Computer Engineering",
+      "period": "2025-2029",
+      "location": "Patiala, India",
+      "detail": "Pursuing Computer Engineering with coursework in Data Structures, Algorithms, Object-Oriented Programming, and Computer Systems."
+    }
+  ],
+  "testimonials": []
+}
